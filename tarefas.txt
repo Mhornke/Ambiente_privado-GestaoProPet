@@ -1,0 +1,5 @@
+[] Terminar layout basico da home
+[] Criar dados para fazer o map nas várias telas
+[] testar tela mobile
+
+NEXT_PUBLIC_URL_API = http://localhost:3004
